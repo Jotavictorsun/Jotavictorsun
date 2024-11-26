@@ -1,7 +1,9 @@
-## Hi there 👋
+## Olá, eu sou João 👋
 
 <!--
 **Jotavictorsun/Jotavictorsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ttps://img.shields.io/badge/Test-840010?style=for-the-badge&logo=Tutanota&logoColor=white
 
 Here are some ideas to get you started:
 
