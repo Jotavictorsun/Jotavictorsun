@@ -1,16 +1,12 @@
-## Olá, eu sou João 👋
+## Olá, eu sou o João 👋
 
 <!--
 **Jotavictorsun/Jotavictorsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-- 🔭 Atualmente no ensino médio
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 
-- 📫 How to reach me: ...
+- ⚡ Atualmente cursando o ensino médio.
+- 📫 Contato: joaovivtor012022fuchsia@gmail.com
 - 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: ...
--->
+  
+
